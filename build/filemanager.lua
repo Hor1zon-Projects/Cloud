@@ -28,3 +28,4 @@ function FileManager:SetFile(Name,URL,fileType) --// Really should use promise b
         return nil
     end
 end
+return FileManager
